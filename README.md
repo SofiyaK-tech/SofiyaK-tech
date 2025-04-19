@@ -6,7 +6,7 @@
 
 🎓 **Gold Medalist in B.Sc. Computer Science** | 📚 Currently pursuing MCA  
 💡 Passionate about **AI, Software Development, and Data Science**  
-🏆 Ranked **Top 5% in NPTEL Cloud Computing** | ⭐ Scored 86% in Cloud & 68% in Blockchain  
+🏆 Ranked **Top 5% in NPTEL Examinations** | ⭐ Scored 86% in Cloud Computing & 68% in Blockchain and it's Applications
 
 🔧 **Tech Stack**:
 - **Languages**: Python, MySQL  
