@@ -1,101 +1,89 @@
-## Hi there 👋
-# 👩‍💻 About Me 
+# 👋 Hi there
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=200&section=header&text=Sofiya%20Khan&fontSize=40&fontColor=ffffff)
+# 👩‍💻 Sofiya Khan
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=grad&height=180&section=header&text=Sofiya%20Khan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 🎓 **Gold Medalist in B.Sc. Computer Science** | 📚 Currently pursuing MCA  
 💡 Passionate about **AI, Software Development, and Data Science**  
-🏆 Ranked **Top 5% in NPTEL Examinations** | ⭐ Scored 86% in Cloud Computing & 68% in Blockchain and it's Applications
+🏆 Ranked **Top 5% in NPTEL Examinations** | ⭐ Scored 86% in Cloud Computing & 68% in Blockchain
 
-🔧 **Tech Stack**:
+---
+
+### 🛠️ Tech Stack
 - **Languages**: Python, MySQL  
 - **Frameworks**: Django, Flask  
-- **Libraries & Tools**: pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, scikit-learn, LangChain, PyDub, FFmpeg, Whisper  
-- **Technologies**: AI, Machine Learning, Web Scraping, Data Visualization, Cloud Computing, GenAI  
-- **Tools**: Streamlit, Power BI, Google Colab, Git, Visual Studio
+- **Libraries/Tools**: pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, scikit-learn, LangChain, PyDub, FFmpeg, Whisper  
+- **Tech**: AI, ML, Web Scraping, Data Viz, Cloud, GenAI  
+- **Others**: Streamlit, Power BI, Google Colab, Git, VS Code
 
 ---
 
-## 💼 Professional Experience
+### 💼 Experience
 
-### 🔬 **Data Science Intern @ Samyak IT Solutions** (Feb 2025 - May 2025)
-- Built real-time AI tools like a **Video Content Moderation System** and **Transaction Analytics Dashboard** using Django, FFmpeg, PyDub, and Plotly.
-- Implemented **speech-to-text, real-time data visualization**, and **financial anomaly detection** systems.
+**🧠 Data Science Intern** @ *Samyak IT Solutions* (Feb '25 – May '25)  
+• Built real-time AI systems: Video Moderation, Transaction Analytics Dashboard  
+• Used Django, FFmpeg, Plotly, Whisper for ML + Speech processing
 
-### 🤖 **Data Science Intern @ Innomatics Research Labs** (Jan 2025 - Mar 2025)
-- Created AI applications such as **Movie Identifier**, **AI Code Reviewer**, **Travel Planner**, and **Data Science Tutor** using **Whisper, LangChain, and Google Gemini**.
+**🤖 AI Intern** @ *Innomatics Research Labs* (Jan '25 – Mar '25)  
+• Created apps: AI Code Reviewer, Travel Planner, Tutor Bot  
+• Integrated LangChain & Google Gemini for dynamic GenAI features
 
-### 📊 **Data Intern @ Evo Astra Ventures** (Jun 2024 - Sep 2024)
-- Conducted deep **data analysis** and built **ML models** for strategic decision-making.
+**📊 Data Intern** @ *Evo Astra Ventures* (Jun '24 – Sep '24)  
+• Built ML models and dashboards for business decisions
 
-### 📰 **Intern @ Evepaper** (Aug 2021 - Nov 2021)
-- Managed research and promotional activities for enhanced visibility and execution.
-
----
-
-## 📘 Education
-
-- 🎓 **MCA**, Madhav Institute of Technology and Science (2023 - Present)  
-- 🥇 **B.Sc. (Hons.) Computer Science**, Prestige Institute of Management and Research – CGPA: 9.4 (2020 - 2023)  
-- 🏫 **Delhi Public Academy Gwalior** – Senior Secondary (87%) & High School (84%)
+**📰 Intern** @ *Evepaper* (Aug '21 – Nov '21)  
+• Researched and promoted content for digital reach
 
 ---
 
-## 🧠 Projects
+### 🎓 Education
 
-- **Video Content Moderation System** | [GitHub Repository](https://github.com/SofiyaK-tech/VideoContentModerationSystem)  
-  Real-time blurring & censoring of offensive content using ML, Whisper, and FFmpeg.
-
-- **AI Code Reviewer** | [GitHub Repository](https://github.com/SofiyaK-tech/AICODEREVIEWER)  
-  Real-time Python code feedback powered by Google Gemini.
-
-- **AI-Powered Travel Planning App** | [GitHub Repository](https://github.com/SofiyaK-tech/AI-Powered-Travel-Planning-App)  
-  Smart transport recommender with GenAI integration.
-
-- **AI Conversational Data Science Tutor** | [GitHub Repository](https://github.com/SofiyaK-tech/AICHATBOT)  
-  Interactive learning assistant using GenAI & Streamlit.
+- MCA, **MITS Gwalior** (2023 – Present)  
+- B.Sc. (Hons.) CS, **Prestige Institute**, CGPA 9.4 (2020 – 2023)  
+- Senior School, **Delhi Public Academy**, 87% | 84%
 
 ---
 
-## 🏅 Achievements & Certifications
+### 🧠 Projects
 
-- 🥇 **Top 5%**, NPTEL Cloud Computing (86%)
-- ✅ NPTEL Blockchain and its Applications (68%)
-- 🧪 Forage Simulation: Full SDLC understanding with Accenture (2024)
-- 🏸 Played Inter-state Badminton Tournament (2023)
-- 🎉 Volunteered in Bootcamps, Conferences & Events
+- [🎥 Video Content Moderation System](https://github.com/SofiyaK-tech/VideoContentModerationSystem) – Real-time censoring with ML + Whisper + FFmpeg
+- [🧪 AI Code Reviewer](https://github.com/SofiyaK-tech/AICODEREVIEWER) – Gemini-powered Python feedback tool
+- [🛫 Travel Planning App](https://github.com/SofiyaK-tech/AI-Powered-Travel-Planning-App) – GenAI-powered transport recommender
+- [👩‍🏫 AI Data Science Tutor](https://github.com/SofiyaK-tech/AICHATBOT) – Conversational learning assistant with Streamlit + LangChain
 
 ---
 
-## 📬 Contact Me
+### 🏆 Highlights & Certifications
 
-- 📧 Email: [sofiya13feb@gmail.com](mailto:sofiya13feb@gmail.com)  
-- 💼 LinkedIn: [Sofiya Khan](https://www.linkedin.com/in/sofiya-khan-2430931b8)  
+- 🥇 Top 5%, NPTEL Cloud Computing (86%)
+- ✅ Blockchain & Applications (68%)
+- 🧪 Accenture SDLC Simulation (Forage, 2024)
+- 🏸 Inter-state Badminton (2023)
+- 🎉 Volunteered in tech events and bootcamps
+
+---
+
+### 📫 Let's Connect
+
+- 📧 [Email](mailto:sofiya13feb@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sofiya-khan-2430931b8)
+- 💻 [GitHub](https://github.com/SofiyaK-tech)
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SofiyaK-tech&show_icons=true&theme=radical" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiyaK-tech&layout=compact&theme=radical" width="300">
+  <img src="https://github-readme-stats.vercel.app/api?username=SofiyaK-tech&show_icons=true&theme=calm" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiyaK-tech&layout=compact&theme=calm" width="300">
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=SofiyaK-tech&theme=rogue" width="90%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SofiyaK-tech&theme=calm" width="90%" />
 </p>
 
 > 💬 *"I build smart tools to simplify life, one project at a time."*
 
+<!-- SofiyaK-tech/SofiyaK-tech -->
 
-<!--
-**SofiyaK-tech/SofiyaK-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
