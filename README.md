@@ -44,16 +44,16 @@
 
 ## 🧠 Projects
 
-- **Video Content Moderation System** | [GitHub](https://github.com/SofiyaK-tech/VideoContentModerationSystem)  
+- **Video Content Moderation System** | [GitHub Repository](https://github.com/SofiyaK-tech/VideoContentModerationSystem)  
   Real-time blurring & censoring of offensive content using ML, Whisper, and FFmpeg.
 
-- **AI Code Reviewer** | [GitHub](https://github.com/SofiyaK-tech/AICODEREVIEWER)  
+- **AI Code Reviewer** | [GitHub Repository](https://github.com/SofiyaK-tech/AICODEREVIEWER)  
   Real-time Python code feedback powered by Google Gemini.
 
-- **AI-Powered Travel Planning App** | [GitHub](https://github.com/SofiyaK-tech/AI-Powered-Travel-Planning-App)  
+- **AI-Powered Travel Planning App** | [GitHub Repository](https://github.com/SofiyaK-tech/AI-Powered-Travel-Planning-App)  
   Smart transport recommender with GenAI integration.
 
-- **AI Conversational Data Science Tutor** | [GitHub](https://github.com/SofiyaK-tech/AICHATBOT)  
+- **AI Conversational Data Science Tutor** | [GitHub Repository](https://github.com/SofiyaK-tech/AICHATBOT)  
   Interactive learning assistant using GenAI & Streamlit.
 
 ---
@@ -72,7 +72,6 @@
 
 - 📧 Email: [sofiya13feb@gmail.com](mailto:sofiya13feb@gmail.com)  
 - 💼 LinkedIn: [Sofiya Khan](https://www.linkedin.com/in/sofiya-khan-2430931b8)  
-- 💻 GitHub: [SofiyaK-tech](https://github.com/SofiyaK-tech)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SofiyaK-tech&show_icons=true&theme=radical" width="400">
