@@ -78,9 +78,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiyaK-tech&layout=compact&theme=radical" width="300">
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=SofiyaK-tech&theme=rogue" width="90%"/>
-</p>
 
 > 💬 *"I build smart tools to simplify life, one project at a time."*
 
