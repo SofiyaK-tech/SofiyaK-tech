@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👩‍💻 About Me - Sofiya Khan
+# 👩‍💻 About Me 
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=200&section=header&text=Sofiya%20Khan&fontSize=40&fontColor=ffffff)
 
